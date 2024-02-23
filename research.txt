@@ -19,9 +19,9 @@ D. Enter the top three companies in the fortune 500 below
 3.
 
 E. Enter the three most popular websites by traffic below
-1.
-2.
-3.
+1.google.com
+2.youtube.com
+3.reddit.com
 
 F. Enter the three largest states by land mass below
 1.
